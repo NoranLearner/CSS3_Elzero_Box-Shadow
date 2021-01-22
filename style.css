@@ -1,0 +1,15 @@
+div{
+    padding: 10px;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    width: 200px;
+    height: 200px;
+    margin: 20px auto;
+
+    -webkit-box-shadow: -8px -8px 5px 2px #ddd , 8px 8px 5px 2px #ddd ;
+    -moz-box-shadow: -8px -8px 5px 2px #ddd , 8px 8px 5px 2px #ddd ;
+    -o-box-shadow: -8px -8px 5px 2px #ddd , 8px 8px 5px 2px #ddd ;
+    -ms-box-shadow: -8px -8px 5px 2px #ddd , 8px 8px 5px 2px #ddd ;
+    box-shadow: -8px -8px 5px 2px #ddd , 8px 8px 5px 2px #ddd ;
+    
+}
